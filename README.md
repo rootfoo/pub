@@ -1,2 +1,4 @@
 # pub
-Publications, presentation slides, etc
+This repo contains various publications and presentation slides.
+
+
